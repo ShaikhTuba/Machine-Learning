@@ -1,0 +1,6 @@
+Age,Income,Gender,Purchased,Gender_encoded,Purchased_encoded,Age_scaled,Income_scaled,Income_binarized
+25,50000,Male,No,1,0,-1.38,-0.99,0
+32,60000,Female,Yes,0,1,-0.86,-0.82,0
+47,120000,Female,Yes,0,1,0.27,0.16,1
+51,100000,Male,No,1,0,0.57,-0.16,0
+62,220000,Female,Yes,0,1,1.4,1.81,1
