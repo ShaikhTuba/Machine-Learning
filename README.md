@@ -1,8 +1,8 @@
-Machine Learning Projects
+Machine Learning Experiments
 
 This repository contains my Machine Learning practice experiments.
 
-This repository is for learning and practice purposes.
+This repository is only for learning and practice purposes.
 
 ------------------------------------
 How to Clone This Repository
